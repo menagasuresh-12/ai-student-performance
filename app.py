@@ -38,7 +38,7 @@ st.set_page_config(
     layout="wide",
 )
 
-st.title("🎓 AI-Based Student Performance Prediction and Analysis")
+st.title("🎓 AI-Based Student Performance Predictions and Analysis")
 st.write(
     "This app uses a trained machine learning model to predict a student's **final score** "
     "based on study habits and attendance, and provides simple analytics."
