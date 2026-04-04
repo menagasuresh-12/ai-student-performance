@@ -1,0 +1,4 @@
+SELECT
+    SUM("Sales")  AS total_revenue,
+    SUM("Profit") AS total_profit
+FROM sales;
